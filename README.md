@@ -62,8 +62,8 @@ def index
    @apps = Apps.order(:name).page params[:page]
   
   
-  # GET /apps/1
-  # GET /apps/1.json
+  "# GET /apps/1"
+  "# GET /apps/1.json"
   
   def show
   end
